@@ -1,0 +1,12 @@
+html, body {
+  margin:0 auto;
+  padding: 0;
+}
+canvas {
+  margin:0 auto;
+  display: block;
+}
+.RestartBT{
+    margin-top:700px ;
+    margin-left:auto;
+}
